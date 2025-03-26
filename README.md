@@ -5,7 +5,7 @@
 
 | Category   | Application or Subject                        | Objective                                                                                             | Link(s)                                                                 |
 |------------|-----------------------------------------------|--------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------|
-| Research   | MSclassifR                                     | Classification of proteomic data using Machine Learning techniques                                    | [Link](https://agodmer/MSclassifR_examples)                            |
+| Research   | MSclassifR                                     | Classification of proteomic data using Machine Learning techniques                                    | [Link](https://github.com/agodmer/MSclassifR_examples)                           |
 |            | *Pneumococcus*                                   | Discrimination between *Streptococcus pneumoniae* and oral streptococci using MALDI-TOF mass spectrometry | [Link](https://bigbiomed.shinyapps.io/MSclassifR-pneumo/)             |
 |            | FIC calculator                                 | Evaluate the interaction between two antibiotics using the FIC (Fractional Inhibitory Concentration) index | [Link](https://bigbiomed.shinyapps.io/fic_calculator/)                |
 |            | *Clostridioides difficile*                     | Visualization of average spectra for peak analysis (hypervirulent vs. non-hypervirulent clones)       | [Link](https://github.com/agodmer/Clostri)                             |
